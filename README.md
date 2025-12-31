@@ -9,6 +9,8 @@ The goal is simple:
 ➡️ Make the data **lighter, faster, and scalable** for real-world ML pipelines.
 
 ---
+![hr-image-small](assets/hr-image-small.png)
+---
 
 ## Problem Statement
 The original customer dataset uses default pandas data types:
