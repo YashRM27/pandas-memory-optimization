@@ -22,6 +22,25 @@ At scale, these inefficiencies:
 - Increase infrastructure costs
 
 ---
+## 📂 Project Structure
+
+```
+pandas-memory-optimization/
+│
+├── data/
+│   └── customer_train.csv 
+│
+├── notebooks/
+│   └── dataframe_memory_optimization.ipynb
+│
+├── assets/
+│   └── hr-image-small.png
+│
+└── README.md
+
+```
+
+---
 
 ## What I Did
 
